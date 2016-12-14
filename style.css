@@ -1,0 +1,55 @@
+
+.image{
+	margin-top:150px;
+}
+
+.text{
+	color:#4D85F5;
+	font-size:18px;
+	position:fixed;
+	bottom:66.5%;
+	left:54.2%;
+}
+a{
+	text-decoration:none;
+	color: black;
+	margin-right:1.25em;
+}
+ul{
+	
+	text-align:right;
+	margin-right:2em;
+	
+}
+li{
+	display:inline;
+}
+
+input[type=text] {
+	margin:0 auto;
+	display: block;
+	width: 575px;
+	height:35px;
+	
+
+}
+input[type=submit]{
+	width:130px;
+	height:35px;
+}
+
+.submit1{
+	margin-top:35px;
+	position:fixed;
+	left:43%;
+	
+}
+
+
+.submit2{
+	margin-top:35px;
+	position:fixed;
+	left:50%;
+
+}
+    
